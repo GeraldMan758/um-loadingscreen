@@ -1,29 +1,37 @@
-- Upravený script ║ Nový Loading Screen
+• Vypnutý Stres
+• Dokončenie scriptu warcraft_drugs
+• Dokončenie scriptu warcraft_smoke
+• Opravenie level systému u craftenia zbraní
+• Úprava scriptov aby fungoval nový hud
+• Úpravca ekonomiky
+• Dokončenie nových frakcií
+• Oprava telefóny a úprava služieb
+• Úprava scoreboardu
+• Sprovoznenie PDM
+• Oprava ticket systému
+• Oprava multicharu + pridané funny animácie
+• Oprava prison worku
+• Oprava hlásenia vykrádačiek
+• Opravenie pozícií pre gruppe6 pri misiách
+• Oprava animácií
+• Oprava crouchu
+• Zmena hudby v loading screene
+• Opravenie rozoberianie vozidiel (Scrapyard)
+• Opravenie potápania
+• Opravenie scriptu na zvliekanie sa
 
-- Přidán script ║ Multichar
+Pridané Scripty:
 
-- Přidán script ║ Q Target
-
-- Přidán script ║ Eternity WeaponShop
-
-- Nový HUD ║ Eternity - HUD
-
-- Přidán script ║ Kolo Štěstí Do Kasina
-
-- Přidán script ║ Automaty Do Kasina
-
-- Přidán script ║ Nový Obchod s Oblečením
-
-- Přidán script ║ Nový Barber
-
-- Přidán script ║ EMS Nosítko
-
-- Přidán script ║ Ovládání vozidla pomocí volantu a pedálů s možností řadící páky
-
-- Nová vozidla ║ EMS Sanitky a Nosítko
-
-- Nový Interiér ║ Věznice
-
-- Nový Interiér ║ Kasino
-
-- Momentální Optimalizace ║ Méně než 300 scriptů
+• Druhé animácie na opravu bugu
+• Objekty - Môžete si položit stan, grill, rádio a pod. Urobiť si grilovačku, počúvať hudbu a pod.
+• Iný script na sadnutie si na stoličku
+• Nový script na bary
+• Nový script na reštauráciu - Mirror
+• Hud - Nový Hud
+• Elektrikár - Nová NPC Joba
+• Čistič Okien - Nová NPC Joba
+• Stavbár - Nová NPC Joba
+• Nový script na pôžičky - Hl. Banka
+• Nový script na PD vozidlá
+• Nový script pre Gruppe6 - Misie
+• Nový log systém
